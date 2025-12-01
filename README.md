@@ -11,7 +11,7 @@ This repository contains a collection of **toy models** that explore concepts I 
 - Each directory corresponds to a specific concept or idea, and the models are meant to be lightweight and illustrative.
 
 ## Disclaimer
-These toy models are exploratory in nature. They may contain simplifications or assumptions that make them unsuitable for direct application without further refinement.
+These toy models contain simplifications or assumptions that make them unsuitable for direct application without further refinement.
 
 ---
 
