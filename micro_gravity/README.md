@@ -8,8 +8,6 @@
 - Fringe contrast model with BEC expansion  
 - Rotation & gradient sensitivity  
 - Drop-tower compatible interrogation times (T) up to several seconds  
-
-Extended free fall in the Bremen drop tower enables T² scaling and pico-Kelvin BEC coherence times.
 ---
 
 ## Optical BEC Formation with Painted Potentials 
@@ -21,8 +19,6 @@ Extended free fall in the Bremen drop tower enables T² scaling and pico-Kelvin 
 - Collision-rate-driven evaporation model  
 - Time-averaged (painted) potential demonstration  
 - Reaches BEC threshold with phase-space density (PSD) ≈ 1 on seconds scale  
-
- Models trap manipulation and evaporative cooling relevant to seconds-long Einstein-elevator cycles.
 ---
 
 ## Levitated Nanoparticle in Microgravity
@@ -34,9 +30,4 @@ Extended free fall in the Bremen drop tower enables T² scaling and pico-Kelvin 
 - Parametric feedback cooling  
 - “Cool → release → drift → recapture” sequence  
 - Demonstrates microgravity enhancement for long-coherence force sensing  
-
-Demonstrates the core physics behind ultra-sensitive force sensors under microgravity (release-and-drift protocols).
 ---
-
- 
-  
